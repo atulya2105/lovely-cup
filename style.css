@@ -120,7 +120,7 @@ body{
     margin: 0 2px 50px;
     min-width: 8px;
     height: 120px;
-    background: green;
+    background: #fff;
     border-radius: 50%;
     animation: animate 5s linear infinite;
     filter: blur(8px);
@@ -159,7 +159,7 @@ body{
     text-align: center;
     padding:90px;
     
-    font-size: 3em;
+    font-size: 2em;
    font-weight: 1000;
     transform: rotate(-60deg);
     
